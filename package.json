@@ -1,0 +1,22 @@
+{
+  "name": "code-executioner",
+  "version": "1.0.0",
+  "description": "A code executioner for multi-language ",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "code-executioner": "bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikramggg/code-executioner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikramggg/code-executioner/issues"
+  },
+  "homepage": "https://github.com/bikramggg/code-executioner#readme"
+}
